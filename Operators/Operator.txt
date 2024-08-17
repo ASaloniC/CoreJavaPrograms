@@ -1,0 +1,15 @@
+AND Operator : Logical && and Bitwise & :
+
+The logical && operator doesn't check the second condition if the first condition is false. 
+It checks the second condition only if the first one is true.
+
+The bitwise & operator always checks both conditions whether first condition is true or false.
+
+
+OR Operator : Logical || and Bitwise | : 
+
+
+The logical || operator doesn't check the second condition if the first condition is true. 
+It checks the second condition only if the first one is false.
+
+The bitwise | operator always checks both conditions whether first condition is true or false.

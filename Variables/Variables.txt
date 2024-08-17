@@ -1,0 +1,48 @@
+                                            Variables
+
+A variable is a container which holds the value while the Java program is executed.
+A variable is assigned with a data type.
+Variable is a name of memory location.
+There are three types of variables in java: 
+local, instance and static.
+
+
+Local Variables :
+1 > Declaration : Inside methods , Constructor or Blocks.
+2 > Scope : Inside methods , Constructor or Blocks. Not Outside.
+3 > When variables get allocated memory : when method , Constructor or block gets executed Variable allocated memory.
+                                          When get exists variable destroyed.
+4> Stored Memory : Stack memory
+5 > Default Values : Does not have any default values. Values Should be provided before use.
+6 > Access Specifiers: Cannot be used with local variables.(public …) 
+
+
+Instance Variables :
+1 > Declaration : Inside class but outside methods , Constructor or Blocks.
+2 > Scope : Inside all methods , Constructor or Blocks within a class.(not inside the static method directly.)
+3 > When variables get allocated memory : when object is created Variable allocated memory.
+                                          When objects get destroyed variable release memory.
+4> Stored Memory : heap memory
+5 > Default Values : They have any default values.int->0,Boolean->false,String,object->null
+6 > Access Specifiers: Can be used.
+7> How to access : it can be called directly.
+Static Method : A obj = new A();
+                Obj.a;
+
+
+
+Static Variables :
+1 > Declaration : with static keyword Inside class but outside methods , Constructor or Blocks.
+2 > Scope : Inside all methods , Constructor or Blocks within a class.
+3 > When variables get allocated memory : when we run program and .class file is loaded variable allocated memory . 
+                                         when .class file get unloaded variable gets destroyed.
+4> Stored Memory : non heap memory/static memory.
+5 > Default Values : They have any default values.int->0,Boolean->false,String,object->null
+6 > Access Specifiers: Can be used.
+7> How to access : it can be called directly.
+                   By using class name.
+                   By using object reference.
+
+
+** You can create a single copy of the static variable and share it among all the instances of the class. 
+Memory allocation for static variables happens only once when the class is loaded in the memory.

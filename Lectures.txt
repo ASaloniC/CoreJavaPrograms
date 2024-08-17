@@ -1,0 +1,25 @@
+Lecture 1 :
+
+History of java and features of java.
+Installation of JDK and Vs code Editor.
+Hello World Program.
+Program Explanation.
+
+Lecture 2 :
+
+Working of JVM.
+Identifiers
+Naming Convention
+Data Types.
+
+Lecture 3 :
+
+Variables and Type of Variable.
+Operators.
+
+Lecture 4 :
+
+Control Statement
+if,switch
+loops
+Break and Continue

@@ -1,0 +1,55 @@
+                              Data Types
+
+Data types refer to the different sizes and values that can be stored in the variable. 
+
+Byte:
+Size: 1byte (8bits)
+Maxvalue: +127
+Minvalue:-128
+Range:-128to 127[-2^7 to 2^7-1]
+
+
+Short:
+The most rarely used data type in java is short.
+Short data type is best suitable for 16 bit processors like 8086 but these processors 
+are completely outdated and hence the corresponding short data type is also out 
+data type.
+Size: 2 bytes
+Range: -32768 to 32767(-2^15 to 2^15-1)
+
+
+Int:
+This is most commonly used data type in java.
+Size: 4 bytes
+Range:-2147483648 to 2147483647 (-2^31 to 2^31-1)
+
+
+long:
+• Whenever int is not enough to hold big values then we should go for long data type.
+Size: 8 bytes
+Range:-2^63 to 2^63-1
+
+
+
+
+Floating Point Data types:
+
+           Float                                                  double
+
+• If we want to 5 to 6 decimal places of 
+accuracy then we should go for float.        • If we want to 14 to 15 decimal places of accuracy then we should go for double.
+• Size:4 bytes.                              • Size:8 bytes.
+• Range:-3.4e38 to 3.4e38.                   • Range -1.7e308 to1.7e308.
+
+
+boolean data type:
+Size: Not applicable.
+Range: Not applicable but allowed values are true or false.
+
+
+Char data type:
+to use any worldwide alphabets character.
+Size: 2 bytes
+Range: 0 to 65535.
+
+
