@@ -1,5 +1,6 @@
-DataType.class
-HelloWorld.class
-InstanceVariable.class
-LocalVariable.class
-StaticVariable.class
+DataType/DataType.class
+Introduction/HelloWorld.class
+Variables/InstanceVariable.class
+Variables/LocalVariable.class
+Variables/StaticVariable.class
+Operators/Operators.class
