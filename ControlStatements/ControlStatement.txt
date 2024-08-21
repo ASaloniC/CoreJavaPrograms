@@ -1,0 +1,13 @@
+Switch Statement
+
+
+The switch expression is evaluated once.
+The value of the expression is compared with the values of each case.
+If there is a match, the associated block of code is executed.
+Cases cannot be duplicate.
+Default statement is executed when any of the case doesn't match the value of expression. 
+It is optional.
+Break statement terminates the switch block when the condition is satisfied.
+It is optional, if not used, next case is executed.
+
+
