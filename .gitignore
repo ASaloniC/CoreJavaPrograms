@@ -4,3 +4,8 @@ Variables/InstanceVariable.class
 Variables/LocalVariable.class
 Variables/StaticVariable.class
 Operators/Operators.class
+ControlStatements/DecisionMaking.class
+ControlStatements/DoWhileExample.class
+ControlStatements/ForExample.class
+ControlStatements/SwitchExample.class
+ControlStatements/WhileExample.class

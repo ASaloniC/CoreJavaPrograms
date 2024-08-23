@@ -1,0 +1,37 @@
+Control Statement :
+
+If Statement :
+
+1>Write a program for checking enter number is even or odd.
+2>Check whether an alphabet is vowel or consonant using if..else statement.
+3>Write a program to find maximum between three numbers.
+4>Problem Statement: Calculate the price of a movie ticket based on the customer's age and whether it's a weekend. 
+The pricing is as follows://if-else
+
+Children (under 13 years): Rs. 100 on weekdays, Rs. 120 on weekends.
+Adults (13 to 64 years): Rs. 150 on weekdays, Rs. 180 on weekends.
+Seniors (65 years and above): Rs. 130 on weekdays, Rs. 150 on weekends.
+
+5> Take a Two Numbers(x,y) and take a operator..
+using this operator calculate the value of addition,multiplication,division,moduleo,subtraction.//switch case
+6>Write a Java program to get a number and print whether it is positive or negative.
+7> Write a program to check whether a number is divisible by 5 and 11 or not.
+8> Write a program to input month number and print month Name //switch case.
+9>Write a program to calculate profit or loss.
+10> Write a program to take input age of male or Female and check he/she is eligible for marriage or not.
+11>WAP to increase the salary of employees from 500, if the salary is less than 10000 otherwise the same salaries will print?
+12>WAP to calculate square if the number is odd and calculate the cube if the number is even?
+13>Write a Java program to take two Input number is equal or not.
+14>Write a Java program that calculates the simple interest based on the principal amount, rate of interest, and time period. 
+15>Write a Java program that calculates the discount on a purchase based on the total amount. The discount rates are:
+
+10% for amounts between 50 and 100
+20% for amounts above 100
+
+16>The marks obtained by a student in 5 different subjects are input through the keyboard. 
+The student gets a division as per the following rules: Write a program to calculate the division obtained by the student
+
+Percentage above or equal to 60 - First division
+Percentage between 50 and 59 - Second division
+Percentage between 40 and 49 - Third division
+Percentage less than 40 – Fail
