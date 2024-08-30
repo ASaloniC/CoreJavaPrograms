@@ -70,3 +70,53 @@ class Discount {
       
     }
 }
+
+
+/* Lcm of two number*/
+
+class Lcm
+{
+public static void main(String args[])
+{
+int a=10;
+int b=20;
+int lcm;
+
+int max=(a>b)?a:b;
+for(int i = max;i<=a*b;i++)
+{
+  if(i%a ==0 && i%b ==0)
+{
+  lcm = i;
+  break;
+}
+}
+System.out.println("Lcm of two numbers"+lcm);
+}
+}
+
+
+
+/* HCF of two number */
+
+class hcf
+{
+public static void main(String args[])
+{
+int a=10;
+int b=20;
+int hcf;
+
+int max=(a>b)?a:b;
+for(int i = max;i>=1;i--)
+{
+  if(a%i==0 && b%i ==0)
+{
+  hcf = i;
+  break;
+}
+}
+System.out.println("Lcm of two numbers"+hcf);
+}
+}
+

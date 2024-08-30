@@ -1,6 +1,6 @@
 Control Statement :
 
-If Statement :
+If-else Statement :
 
 1>Write a program for checking enter number is even or odd.
 2>Check whether an alphabet is vowel or consonant using if..else statement.
@@ -35,3 +35,43 @@ Percentage above or equal to 60 - First division
 Percentage between 50 and 59 - Second division
 Percentage between 40 and 49 - Third division
 Percentage less than 40 – Fail
+
+
+Loops --->
+
+
+1>Write a program to print tables of given number.
+2>Write a program to print all alphabets from a to z.
+3>. Write a program to print all odd number between 1 to 100.
+4> Write a program to find sum of all even numbers between 1 to n.
+5>.Write a program to find the factorial value of any number.
+6>write a program to Check Whether a Given Number is Prime or Not.
+7>Write a program to print fibonacci series upto n terms.
+8>Write a Program to check Armstrong numbers or Not.
+9>Write a Program to Check Given String is a Palindrome or Not.
+10>* * * * * 
+
+* * * * 
+
+* * * 
+
+* * 
+
+* Pattern print
+11>
+   * 
+  * * 
+ * * * 
+* * * *
+12>
+A 
+A B 
+A B C 
+A B C D
+A B C D E
+
+13> find the LCM of two numbers.
+14> find the HCF of two numbers.
+
+         
+        

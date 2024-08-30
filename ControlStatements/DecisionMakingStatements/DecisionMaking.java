@@ -1,4 +1,4 @@
-public class DecisionMaking
+class DecisionMaking
    
   {
   public static void main(String args[])
